@@ -9,7 +9,7 @@ public class DigitCountExecutor {
 		    do {
 		    	System.out.println("Number of digits: " + count);
 		    	 num /= 10;
-			      ++count;
+			     ++count;
 		    }
 		    while (num != 0); {
 		     
