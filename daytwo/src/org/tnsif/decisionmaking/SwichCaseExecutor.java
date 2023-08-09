@@ -20,6 +20,7 @@ public class SwichCaseExecutor {
 		default:
 			System.out.println("not applicable songs");
 		}
+		sc.close();
 			
 		}
 		

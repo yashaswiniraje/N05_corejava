@@ -10,7 +10,7 @@ public class BreakExecutor {
 		else
 			System.out.println(i);
 	}
-	
+	sc.close();
 
 	}
 

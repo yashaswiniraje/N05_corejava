@@ -14,7 +14,7 @@ public class DigitCountExecutor {
 		    while (num != 0); {
 		     
 		    }
-		    
+		    sc.close();
 		  }
 		}
 

@@ -10,7 +10,7 @@ public class EnhancedForLoopExecutor {
 		{
 			System.out.println(c+" ");
 		}
-
+		
 	}
 
 }

@@ -11,6 +11,8 @@ public class WhileExecutor {
 			System.out.print(n+" ");
 			n--;
 		}
+		sc.close();
 	}
+	
 
 }

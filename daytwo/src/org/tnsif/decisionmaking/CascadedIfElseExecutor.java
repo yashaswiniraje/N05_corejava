@@ -18,6 +18,7 @@ public class CascadedIfElseExecutor {
 		else {
 			System.out.println("ahe 3 is greater "+age3);
 		}
+		s.close();
 	}
 
 }

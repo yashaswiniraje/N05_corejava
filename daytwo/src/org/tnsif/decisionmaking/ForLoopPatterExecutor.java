@@ -13,7 +13,7 @@ public class ForLoopPatterExecutor {
 		}
 			System.out.println();
 		}
-
+		sc.close();
 	}
-
+	
 }

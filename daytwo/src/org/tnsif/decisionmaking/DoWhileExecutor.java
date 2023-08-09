@@ -10,7 +10,7 @@ public class DoWhileExecutor {
 		}
 		while(n<10);
 		// TODO Auto-generated method stub
-
+		sc.close();
 	}
 
 }

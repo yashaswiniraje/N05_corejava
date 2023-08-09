@@ -20,7 +20,7 @@ public class NestedIfExecutor {
 			System.out.println("not eligibe");
 		}
 		
-
+		sc.close();
 	}
 
 }
