@@ -52,12 +52,15 @@ public class Employee implements Comparable<Employee>{
 		return "Employee [empId=" + empId + ", empName=" + empName + ", salary=" + salary + ", designation="
 				+ designation + "]";
 	}
-	//sort based on salary
+	
 	@Override
 	public int compareTo(Employee o) {
-		
+		//sort based on salary	
 		return (int) (getSalary()-o.getSalary());
+		
+		//sort on descending order of name
+		//return o.getEmpName().compareTo(getEmpName());
+		
 	}
-	
 
 }
